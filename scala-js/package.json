@@ -1,0 +1,13 @@
+{
+  "name": "scala-js",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --outDir out --emptyOutDir",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.2"
+  }
+}
