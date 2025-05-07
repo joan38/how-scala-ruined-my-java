@@ -31,7 +31,7 @@ Map(("key", 1), ("key2", 2))
 ```scala
 def points(): List[(Double, Double)] = ???
 
-def points(): List[(x = Double, y = Double)] = ???
+def points(): List[(x: Double, y: Double)] = ???
 
 case class Point(x: Double, y: Double)
 def points(): List[Point] = ???
